@@ -8,7 +8,7 @@ pub contract Contract {
         }
     }
     init() {
-        let a = Test(a: 1, b: "b")
+        let a = Test(a: 1, b: "b") // labels enforced
     }
 }
  
